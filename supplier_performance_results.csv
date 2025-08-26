@@ -1,0 +1,9 @@
+supplier_id,Avg_Delay,Delay_Std,Order_Count,Avg_Quality,Total_Spend,Total_Quantity,supplier_name,country,reliability_score,on_time_delivery,performance_score
+SUP_001,0.2,3.35,75,0.95,10640113.36,18674,Global Supply Co,South Korea,0.9826859831103312,0.98,0.962
+SUP_002,-0.63,3.41,46,0.94,4116165.84,10056,Asia Electronics,Singapore,0.9016453244052118,1.0,0.964
+SUP_003,-0.81,4.73,67,0.94,9569793.39,16501,European Tech,Taiwan,0.8660346019930456,1.0,0.964
+SUP_004,-0.52,4.14,52,0.95,7284808.21,12604,American Components,China,0.931015862551294,1.0,0.97
+SUP_005,0.0,2.91,60,0.95,7760895.17,14084,Pacific Trading,Taiwan,0.9771236611466424,1.0,0.97
+SUP_006,-0.73,4.04,71,0.95,11169681.38,17308,Metro Wholesale,Taiwan,0.8777661687928401,1.0,0.97
+SUP_007,0.33,4.07,70,0.95,8967073.94,18385,Prime Distributors,Taiwan,0.8839989132751985,0.967,0.9568
+SUP_008,-0.15,4.59,59,0.95,10484094.39,16549,Elite Suppliers,Singapore,0.9457962654833318,1.0,0.97
